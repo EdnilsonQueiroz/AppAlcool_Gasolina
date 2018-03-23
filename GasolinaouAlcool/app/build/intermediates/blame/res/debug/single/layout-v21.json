@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

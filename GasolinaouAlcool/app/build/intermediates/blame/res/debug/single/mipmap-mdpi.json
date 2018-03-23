@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

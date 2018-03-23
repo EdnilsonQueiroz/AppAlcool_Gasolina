@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ednilson/.android/build-cache/bd1b9ff36911f21081891ac0311d6a6d6cfa8ba7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ednilson/.android/build-cache/a4aea101431625d6703b094ab22ee38f64b5705d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ednilson/.android/build-cache/2a3874b43e007e1d131cfb3e38dcad4c1ce0ed2c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ednilson/.android/build-cache/7301443c364493031f3deedf9d940941b93d96c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ednilson/.android/build-cache/97b5e026c612d803dfced56a1ca606c96a4144df/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ednilson/.android/build-cache/e0ebe9c68ef446f0a1cd9b95d1d2bed1ae206fdb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ednilson/.android/build-cache/63225f2d86ada419e51d3c1d927fe304fb82c8fe/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ednilson/.android/build-cache/dcd7e5af2b320c75a8a7571423d351a0133b5000/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ednilson/.android/build-cache/f5d12b6ea7b4d18c172277aa5bbec5dddc06d85b/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ednilson.gasolinaoualcool.MainActivity
+ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ednilson/.android/build-cache/bd1b9ff36911f21081891ac0311d6a6d6cfa8ba7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ednilson/.android/build-cache/a4aea101431625d6703b094ab22ee38f64b5705d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ednilson/.android/build-cache/2a3874b43e007e1d131cfb3e38dcad4c1ce0ed2c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ednilson/.android/build-cache/7301443c364493031f3deedf9d940941b93d96c5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ednilson/.android/build-cache/97b5e026c612d803dfced56a1ca606c96a4144df/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ednilson/.android/build-cache/e0ebe9c68ef446f0a1cd9b95d1d2bed1ae206fdb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ednilson/.android/build-cache/63225f2d86ada419e51d3c1d927fe304fb82c8fe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ednilson/.android/build-cache/dcd7e5af2b320c75a8a7571423d351a0133b5000/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ednilson/.android/build-cache/f5d12b6ea7b4d18c172277aa5bbec5dddc06d85b/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ednilson/AndroidStudioProjects/Android-Bd/GasolinaouAlcool/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ednilson/.android/build-cache/bd1b9ff36911f21081891ac0311d6a6d6cfa8ba7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ednilson/.android/build-cache/a4aea101431625d6703b094ab22ee38f64b5705d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ednilson/.android/build-cache/2a3874b43e007e1d131cfb3e38dcad4c1ce0ed2c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ednilson/.android/build-cache/7301443c364493031f3deedf9d940941b93d96c5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ednilson/.android/build-cache/97b5e026c612d803dfced56a1ca606c96a4144df/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ednilson/.android/build-cache/e0ebe9c68ef446f0a1cd9b95d1d2bed1ae206fdb/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ednilson/.android/build-cache/63225f2d86ada419e51d3c1d927fe304fb82c8fe/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ednilson/.android/build-cache/dcd7e5af2b320c75a8a7571423d351a0133b5000/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ednilson/.android/build-cache/27057325b804a48f5bb46e8b7fce11ceb42b0f67/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light"
+    tools:context="com.example.ednilson.gasolinaoualcool.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            app:srcCompat="@drawable/logo"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/txtalcoolid"
+            android:layout_width="70dp"
+            android:layout_height="35dp"
+            android:layout_alignLeft="@+id/textView"
+            android:layout_alignStart="@+id/textView"
+            android:layout_below="@+id/imageView"
+            android:layout_marginTop="119dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:inputType="numberDecimal"
+
+
+            tools:text=" " />
+
+        <EditText
+            android:id="@+id/txtgasolinaid"
+            android:layout_width="70dp"
+            android:layout_height="35dp"
+            android:layout_alignBottom="@+id/txtalcoolid"
+            android:layout_alignEnd="@+id/imageView"
+            android:layout_alignRight="@+id/imageView"
+            android:layout_marginEnd="49dp"
+            android:layout_marginRight="49dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/txtalcoolid"
+            android:layout_alignLeft="@+id/imageView"
+            android:layout_alignStart="@+id/imageView"
+            android:layout_marginBottom="54dp"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="13dp"
+            android:text=" Preço do Alcool"
+            android:textColor="@android:color/background_light"
+            android:textSize="@dimen/texto" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView"
+            android:layout_alignLeft="@+id/txtgasolinaid"
+            android:layout_alignStart="@+id/txtgasolinaid"
+            android:text="Preço da Gasolina"
+            android:textColor="@android:color/background_light"
+            android:textSize="@dimen/texto" />
+
+        <Button
+            android:id="@+id/btnid"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/txtalcoolid"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="42dp"
+            android:text="Verificar" />
+
+        <TextView
+            android:id="@+id/txtresultadoid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnid"
+            android:layout_marginTop="47dp"
+            android:layout_toEndOf="@+id/textView"
+            android:layout_toRightOf="@+id/textView"
+            android:text=" "
+            android:textColor="@android:color/background_light"
+            android:textSize="@dimen/texto" />
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
